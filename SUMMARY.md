@@ -11,7 +11,3 @@
 ## 特性
 
 * [认证](te-xing/ren-zheng.md)
-
-## 特性1
-
-* [认证1](te-xing/ren-zheng.md)
