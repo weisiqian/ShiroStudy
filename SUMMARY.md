@@ -1,4 +1,4 @@
-# Summary
+# 目录
 
 ## 第 1 章 前言
 
@@ -11,18 +11,3 @@
 ## 第 3 章 特性
 
   * [1.3 认证](te-xing/ren-zheng.md)
-    - [1.3.1 认证](te-xing/ren-zheng.md)
-    - [1.3.2 认证](te-xing/ren-zheng.md)
-    - [1.3.3 认证](te-xing/ren-zheng.md)
-      - [1.3.1 认证](te-xing/ren-zheng.md)
-      - [1.3.2 认证](te-xing/ren-zheng.md)
-      - [1.3.3 认证](te-xing/ren-zheng.md)
-        - [1.3.1 认证](te-xing/ren-zheng.md)
-        - [1.3.2 认证](te-xing/ren-zheng.md)
-        - [1.3.3 认证](te-xing/ren-zheng.md)
-          - [1.3.1 认证](te-xing/ren-zheng.md)
-          - [1.3.2 认证](te-xing/ren-zheng.md)
-          - [1.3.3 认证](te-xing/ren-zheng.md)
-            - [1.3.1 认证](te-xing/ren-zheng.md)
-            - [1.3.2 认证](te-xing/ren-zheng.md)
-            - [1.3.3 认证](te-xing/ren-zheng.md)
